@@ -216,20 +216,79 @@ main {
 #slide-3 .hsContent {
 	margin-left: -239px;
 }
-	#slide-3 h2 {
-        font-family: 'Merriweather', serif;
-        font-style: italic;
-		color: #fdb0f5;
-		background-color: rgba(0,0,0,0.5);
-	}
-
+#slide-3 h2 {
+    font-family: 'Merriweather', serif;
+    font-style: italic;
+	color: #fdb0f5;
+	background-color: rgba(0,0,0,0.5);
+}
 /* Slide 4 */
 #slide-4 .bcg {background-image:url('../img/bcg_slide-4.jpg')}
 #slide-4 .hsContent {
     margin-left: -450px;
-    top: 250px;
+    top: auto;
 }
 #slide-4 h2 {
+    font-family: 'Merriweather', serif;
+    font-style: italic;
+    position: fixed;
+    top: 70%;
+    color: #fec3f8;
+    padding: 10px 15px;
+    font-size: 30px;
+    line-height: 45px;
+    margin-bottom: 12px;
+}
+
+/* Slide 5 */
+#slide-5 .bcg {background-image:url('../img/bcg_slide-5.jpg')}
+#slide-5 .hsContent {
+    margin-left: -239px;
+}
+#slide-5 h2 {
+    font-family: 'Merriweather', serif;
+    font-style: italic;
+    color: #fdb0f5;
+    background-color: rgba(0,0,0,0.5);
+}
+
+/* Slide 6 */
+#slide-6 .bcg {background-image:url('../img/bcg_slide-6.jpg')}
+#slide-6 .hsContent {
+    margin-left: -450px;
+    top: auto;
+}
+#slide-6 h2 {
+    font-family: 'Merriweather', serif;
+    font-style: italic;
+    position: fixed;
+    top: 70%;
+    color: #fec3f8;
+    padding: 10px 15px;
+    font-size: 30px;
+    line-height: 45px;
+    margin-bottom: 12px;
+}
+
+/* Slide 7 */
+#slide-7 .bcg {background-image:url('../img/bcg_slide-7.jpg')}
+#slide-7 .hsContent {
+    margin-left: -239px;
+}
+#slide-7 h2 {
+    font-family: 'Merriweather', serif;
+    font-style: italic;
+    color: #fdb0f5;
+    background-color: rgba(0,0,0,0.5);
+    }
+    
+/* Slide 8 */
+#slide-8 .bcg {background-image:url('../img/bcg_slide-8.jpg')}
+#slide-8 .hsContent {
+    margin-left: -450px;
+    top: 250px;
+}
+#slide-8 h2 {
     font-family: 'Merriweather', serif;
     font-style: italic;
     background-color: rgba(0,0,0,0.5);
