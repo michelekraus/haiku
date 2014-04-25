@@ -273,7 +273,7 @@ main {
 /* Slide 7 */
 #slide-7 .bcg {background-image:url('../img/bcg_slide-7.jpg')}
 #slide-7 .hsContent {
-    margin-left: -239px;
+    margin-left: -500px;
 }
 #slide-7 h2 {
     font-family: 'Merriweather', serif;
@@ -281,7 +281,7 @@ main {
     color: #fdb0f5;
     background-color: rgba(0,0,0,0.5);
     }
-    
+
 /* Slide 8 */
 #slide-8 .bcg {background-image:url('../img/bcg_slide-8.jpg')}
 #slide-8 .hsContent {
